@@ -1,7 +1,1 @@
-### Apresentação👋
-
-Olá, me chamo Tayluan!
-
-- 🔭 Atualmente encontro-me em processo de transição de carreira,buscando a primeira oportunidade de ingressar no mercado da programação atuando como desenvolvedor
-back end.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayluansantos)](https://github.com/TayluanSantos)
