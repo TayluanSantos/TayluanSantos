@@ -1,7 +1,14 @@
 ## Olá!Eu sou o Tayluan :wave:	
 
 :telescope:	Atualmente encontro-me em processo de transição de carreira, buscando a primeira oportunidade como desenvolvedor back-end.        
-:seedling:	No momento estou estudando a linguagem de programação Java, juntamente ao framework Spring Boot.
+:seedling:	No momento estou estudando a linguagem de programação Java, juntamente ao framework Spring Boot.Além de outros assuntos,como:
+
+:diamond_shape_with_a_dot_inside:	JUnit 5/
+:diamond_shape_with_a_dot_inside:	Mockito/
+:diamond_shape_with_a_dot_inside:	Swagger/
+:diamond_shape_with_a_dot_inside:	Flyway Migrations/
+:diamond_shape_with_a_dot_inside:	Docker/
+:diamond_shape_with_a_dot_inside:	RabbitMQ/
 
 [![Tayluan GitHub stats](https://github-readme-stats.vercel.app/api?username=tayluansantos&show_icons=true&theme=tokyonight)](https://github.com/TayluanSantos)
 
@@ -15,6 +22,7 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
 
 
 
