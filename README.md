@@ -1,14 +1,8 @@
-## Olá!Eu sou o Tayluan :wave:	
+## Olá! Eu sou o Tayluan :wave:	
 
-:telescope:	Atualmente encontro-me em processo de transição de carreira, buscando a primeira oportunidade como desenvolvedor back-end.        
-:seedling:	No momento estou estudando a linguagem de programação Java, juntamente ao framework Spring Boot.Além de outros assuntos,como:
-
-:diamond_shape_with_a_dot_inside:	JUnit 5/
-:diamond_shape_with_a_dot_inside:	Mockito/
-:diamond_shape_with_a_dot_inside:	Swagger/
-:diamond_shape_with_a_dot_inside:	Flyway Migrations/
-:diamond_shape_with_a_dot_inside:	Docker/
-:diamond_shape_with_a_dot_inside:	RabbitMQ/
+* Atualmente estou cursando Análise e Desenvolvimento de Sistemas.Busco uma oportunidade de estágio em desenvolvimento de software.
+* Front-end: Possuo conhecimento básico em HTML5, CSS , JavaScript e Bootstrap.
+* Back-end : Possuo conhecimento em Java e Spring Boot.
 
 [![Tayluan GitHub stats](https://github-readme-stats.vercel.app/api?username=tayluansantos&show_icons=true&theme=tokyonight)](https://github.com/TayluanSantos)
 
@@ -21,6 +15,8 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 
