@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tayluan :wave:	
 
-* Atualmente estou cursando Análise e Desenvolvimento de Sistemas.Busco uma oportunidade de estágio em desenvolvimento de software.
+* Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Busco uma oportunidade de estágio em desenvolvimento de software.
 * Front-end: Possuo conhecimento básico em HTML5, CSS , JavaScript e Bootstrap.
 * Back-end : Possuo conhecimento em Java e Spring Boot.
 
